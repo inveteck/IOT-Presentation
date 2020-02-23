@@ -1,0 +1,4 @@
+# IOT-presentations
+Internet Of Things Archive 
+
+THIS PLACE CONTAINS ALL OUR PREVIOUS PRESENTATIONS RELATING TO IOT
